@@ -1,4 +1,4 @@
-# COMP90086
+# Physical Reasoning Prediction Model - Computer Vision
 
 Model Training: included 2 models for training, one is the VGG19 model, another will be the Vision Transformer DINO V2. The specifications for running the model files are listed below.
 
